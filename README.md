@@ -21,7 +21,8 @@ The was designed as a non-profit way to provide students of Kendriya Vidhyalya w
 During the COVID-19 scenario, the App served 100+ students to get quality education at home for free learning, at their own pace.
 
 ## Screenshots - 
-    ![Alt text](https://raw.github.com/Oshanik22/Physics-App/master/Assets/Images/ss0.jpeg?raw=true "Optional Title")
-    ![Alt text](https://raw.github.com/Oshanik22/Physics-App/master/Assets/Images/ss1.jpeg?raw=true "Optional Title")
-    ![Alt text](https://raw.github.com/ryanmaxwell/Physics-App/master/Assets/Images/ss2.jpeg?raw=true "Optional Title")
-    
+[url=https://postimg.cc/TpZTfps9][img]https://i.postimg.cc/TpZTfps9/ss0.jpg[/img][/url]
+
+[url=https://postimg.cc/yDcsd74z][img]https://i.postimg.cc/yDcsd74z/ss1.jpg[/img][/url]
+
+[url=https://postimg.cc/8FGDfxNf][img]https://i.postimg.cc/8FGDfxNf/ss2.jpg[/img][/url]
