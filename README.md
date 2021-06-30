@@ -22,3 +22,6 @@ During the COVID-19 scenario, the App served 100+ students to get quality educat
 
 ## Screenshots - 
 ![Alt text](https://i.postimg.cc/TpZTfps9/ss0.jpg "Optional title")
+![Alt text](https://i.postimg.cc/yDcsd74z/ss1.jpg "Optional title")
+![Alt text](https://i.postimg.cc/8FGDfxNf/ss2.jpg "Optional title")
+
