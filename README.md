@@ -21,8 +21,4 @@ The was designed as a non-profit way to provide students of Kendriya Vidhyalya w
 During the COVID-19 scenario, the App served 100+ students to get quality education at home for free learning, at their own pace.
 
 ## Screenshots - 
-[url=https://postimg.cc/TpZTfps9][img]https://i.postimg.cc/TpZTfps9/ss0.jpg[/img][/url]
-
-[url=https://postimg.cc/yDcsd74z][img]https://i.postimg.cc/yDcsd74z/ss1.jpg[/img][/url]
-
-[url=https://postimg.cc/8FGDfxNf][img]https://i.postimg.cc/8FGDfxNf/ss2.jpg[/img][/url]
+![Alt text](https://i.postimg.cc/TpZTfps9/ss0.jpg "Optional title")
